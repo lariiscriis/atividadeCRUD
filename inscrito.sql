@@ -42,8 +42,8 @@ CREATE TABLE IF NOT EXISTS `aluno` (
 --
 
 INSERT INTO `aluno` (`id`, `nome`, `cpf`, `email`, `senha`) VALUES
-(1, 'LARISSA CRISTINA BENTO SANTANA', '26547713857', 'larissa.santana.ae2020@gmail.com', '123'),
-(2, 'KAREN CRISTINA BENTO DA SILVA', '562.219.818-67', 'bentolarissa41@gmail.com', '1234'),
+(1, 'LARISSA CRISTINA BENTO SANTANA', '75757575756', 'larissa.santana.ae2020@gmail.com', '123'),
+(2, 'KAREN CRISTINA BENTO DA SILVA', '11111111119', 'bentolarissa41@gmail.com', '1234'),
 (3, 'Rodrigo Paulo Santana', '111111111111', 'lari@lari', '12345'),
 (4, 'Larissa Cristina', '2222222222', 'lala@lala', '123'),
 (5, 'Larissa Cristina', '44444444', 'L@L', '123'),
